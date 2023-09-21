@@ -10,7 +10,7 @@
     pip install -r requirements.txt
     ```
     
-2. 啟動web伺服器
+2. 測試web伺服器
     
     ```bash
     python manage.py runserver
@@ -18,3 +18,7 @@
     
 
 建置完成即可進行聊天室體驗
+
+
+若要正式將Django應用程序到生產環境，
+通常涉及設置Web服務器（如Nginx或Apache）、數據庫服務器、應用服務器（如Gunicorn或uWSGI）以及配置環境變量等步驟。
