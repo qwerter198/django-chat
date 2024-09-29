@@ -1,6 +1,6 @@
 # Django聊天室
 
-了解如何使用 Django 和 Channels 構建實時聊天應用程式。
+了解如何使用 Django 和 Channels 建立即時聊天應用程式。
 
 ## 建置步驟
 
